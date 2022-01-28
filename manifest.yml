@@ -1,0 +1,6 @@
+id: myfirstapp_viaAzurePipeline_01
+name: myfirstappCircle_viaAzurePipeline_01
+self: https://github.com/falkh/leanix/manifest.yml
+description: First app to showcase CircleCICD integration.
+owner: address@mail.net
+microserviceId:  myfirstmicroservice_viaAzurePipeline_01
